@@ -1,0 +1,1 @@
+Simple imitation of a [Battleship](https://en.wikipedia.org/wiki/Battleship_(game)) game made in Unity.
